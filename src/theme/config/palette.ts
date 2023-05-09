@@ -1,0 +1,17 @@
+export const palette = {
+  inactive: "#C9C9CA",
+  black: "#080D45",
+  blackTint: "#4B4B4B",
+  secondary: "#EDEEF7",
+  secondaryTint: "#C2C7FF",
+  error: "#FF0101",
+  primary: "#7F18D0",
+  primaryTint: "#F2E1FF",
+  success: "#76EE59",
+  transparent: "transparent",
+  white: "#FFFFFF",
+  blue: "#1826D0",
+  harsh: "#F4F4F4",
+  harshTint: "#FBFAFA",
+  fadedWhite: "#FDFDFD",
+};
