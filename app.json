@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "app.3kle",
-    "slug": "fintech",
+    "name": "3kle",
+    "slug": "3kle",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./app-assets/icon.png",
@@ -22,8 +22,23 @@
       "adaptiveIcon": {
         "foregroundImage": "./app-assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
+      },
+      "package": "app.fintech"
+    },
+    "scheme": "app.3kle",
+    "extra": {
+      "eas": {
+        "projectId": "448392a9-2754-4f10-b26e-78a13ca605ca"
       }
     },
-    "scheme": "app.3kle"
+    "owner": "balogunofafrica",
+    "plugins": [
+      [
+        "expo-updates",
+        {
+          "username": "balogunofafrica"
+        }
+      ]
+    ]
   }
 }

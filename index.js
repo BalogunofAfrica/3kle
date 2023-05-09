@@ -1,5 +1,4 @@
 import "expo-router/entry";
-import "intl-pluralrules";
 import { LogBox } from "react-native";
 
 LogBox.ignoreLogs([
